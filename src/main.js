@@ -21,10 +21,11 @@ Vue.filter('truncate', function(value) {
 	}
 });
 
+window.favouritesArray = [];
 
 
 // Create new instance of Vue
 new Vue({
-  render: h => h(App),
+  render: h => h(App)
 }
 ).$mount('#main')

@@ -208,14 +208,3 @@ header .header-limiter nav a.selected {
 	}
 
 }
-
-
-
-/* ------- Demo adds. Please ignore and remove ------- */
-
-
-@media (max-width: 1200px) {
-    #bsaHolder{ 
-    	display:none;
-    }
-}
